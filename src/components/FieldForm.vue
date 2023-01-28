@@ -17,9 +17,7 @@ import FormButton from './FormButton.vue';
 
 export default {
   components: { FormInput, FormButton },
-  setup() {
-      
-    }
+
 }
 </script>
 
